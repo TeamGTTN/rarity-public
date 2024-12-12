@@ -51,8 +51,3 @@ Hai il diritto di:
 
 ## 6. Modifiche alla Privacy Policy
 Ci riserviamo il diritto di modificare questa policy. Le modifiche saranno effettive dopo la pubblicazione nell'app.
-
-## 7. Contatti
-Per domande sulla privacy: [inserire email di contatto]
-
-Ultimo aggiornamento: [data] 
