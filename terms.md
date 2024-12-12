@@ -42,8 +42,3 @@ Ci riserviamo il diritto di modificare questi termini in qualsiasi momento. Le m
 
 ## 7. Legge Applicabile
 Questi termini sono regolati dalle leggi italiane. Qualsiasi controversia sarà soggetta alla giurisdizione esclusiva dei tribunali italiani.
-
-## 8. Contatti
-Per domande sui termini: [inserire email di contatto]
-
-Ultimo aggiornamento: [data] 
