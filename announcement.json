@@ -1,8 +1,8 @@
 {
-  "id": "2025-10-01-alert1",
+  "id": "2025-11-01-alert-prezzi",
   "title": "Recupero Prezzi",
   "message": "I prezzi recuperati potrebbero essere errati, la funzionalità è in beta!",
   "level": "info",
-  "startAt": "2025-10-01T00:00:00Z",
-  "endAt": "2026-10-31T23:00:00Z"
+  "startAt": "2025-11-01T00:00:00Z",
+  "endAt": "2026-01-31T23:00:00Z"
 }
